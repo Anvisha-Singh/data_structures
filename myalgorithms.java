@@ -1,4 +1,4 @@
-ADJACENCY MATRIX
+//ADJACENCY MATRIX
 
 import java.util.*;
 
@@ -69,7 +69,7 @@ public class adjacency_matrix {
     }
 }
 
-ASSIGNMENT PROBLEM
+//ASSIGNMENT PROBLEM
 
 import java.util.*;
 
@@ -155,7 +155,7 @@ public class assignment {
     }
 }
 
-BINARY TREE
+//BINARY TREE
 
 import java.util.Scanner;
 import java.util.Stack;
@@ -333,7 +333,7 @@ System.out.println(answer);
 
 }
 
-BST
+//BST
 
 import java.util.Scanner;
 
@@ -461,7 +461,7 @@ return (right+left);
 
 
 
-CHAIN MAP
+//CHAIN MAP
 
 import java.util.Iterator;
 import java.util.Scanner;
@@ -529,7 +529,7 @@ public class chain_map {
     }
 }
 
-CHECK CYCLE
+//CHECK CYCLE
 
 import java.util.Scanner;
 
@@ -638,7 +638,7 @@ public class check_cycle {
 
 
 
-CIRCULAR NODE HEADER
+//CIRCULAR NODE HEADER
 
 import java.util.Scanner;
 
@@ -797,7 +797,7 @@ return result_head;
 
 
 
-DIJSTRA ALGORITHM
+//DIJSTRA ALGORITHM
 
 import java.util.Scanner;
 public class dijkstra {
@@ -862,7 +862,7 @@ printSolution(dist,v);
 
 
 
-DOUBLY CIRCULAR LIST
+//DOUBLY CIRCULAR LIST
 
 import java.util.Scanner;
 
@@ -1020,7 +1020,7 @@ public class doubly_circular_list {
 
 
 
-EQUAL TREES
+//EQUAL TREES
 
 import java.util.Scanner;
 
@@ -1093,7 +1093,7 @@ public class equal_trees {
 
 }
 
-GREATEDT COMMON DIVISOR
+//GREATEDT COMMON DIVISOR
 
 import java.util.*;
 
@@ -1183,7 +1183,7 @@ public class gcd {
     }
 }
 
-GRAPHS
+//GRAPHS
 
 import java.util.*;
 
@@ -1289,7 +1289,7 @@ public class graphs {
     }
 }
 
-HAMILTON
+//HAMILTON
 
 import java.util.*;
 
@@ -1596,7 +1596,7 @@ return size;
 
 
 
-MERGE SORT
+//MERGE SORT
 
 import java.util.Scanner;
 
@@ -1653,7 +1653,7 @@ public class merge_sort {
     }
 }
 
-MODE
+//MODE
 
 import java.util.Scanner;
 
@@ -1696,7 +1696,7 @@ public class mode {
     }
 }
  
-BASIC NODE 
+//BASIC NODE 
 
 public class node
 {
@@ -1750,7 +1750,7 @@ public class permutation {
     }
 }
 
-QUICK SORT
+//QUICK SORT
 
 import javax.swing.plaf.synth.SynthTextAreaUI;
 import java.util.Scanner;
@@ -1810,7 +1810,7 @@ public class pivot_sort {
 
 
 
-POLYNOMIAL LINKED LIST
+//POLYNOMIAL LINKED LIST
 
 import java.util.Scanner;
 
@@ -1954,7 +1954,7 @@ public class polynomials {
 
 
 
-N QUEENS ALGORITHM
+//N QUEENS ALGORITHM
 
 import java.util.Scanner;
 
@@ -2030,7 +2030,7 @@ public class queens {
 
 
 
-QUEUE LIST HEADER
+//QUEUE LIST HEADER
 
 import java.util.Scanner;
 
@@ -2118,7 +2118,7 @@ public class queue_list_header{
 
 
 
-SETS
+//SETS
 
 import java.util.Scanner;
 public class sets {
@@ -2151,7 +2151,7 @@ public class sets {
 }
 
 
-STACK LIST
+//STACK LIST
 
 import java.util.Scanner;
 
@@ -2256,7 +2256,7 @@ public class stack_list {
 
 
 
-SUBSET SUM ALGORITHM
+//SUBSET SUM ALGORITHM
 
 import java.util.Scanner;
 
@@ -2301,7 +2301,7 @@ public class subset_sum {
     }
 }
 
-TOWER OF HANOI
+//TOWER OF HANOI
 
 import java.util.Scanner;
 public class tower_of_hanoi {
@@ -2330,7 +2330,7 @@ public class tower_of_hanoi {
 
 }
 
-TRAVERSAL TREE ITERATION
+//TRAVERSAL TREE ITERATION
 
 import java.util.Scanner;
 
@@ -2385,7 +2385,7 @@ public class traversal {
 }
 
 
-TREE OPERATIONS
+//TREE OPERATIONS
 
 import java.util.Scanner;
 
@@ -2450,7 +2450,7 @@ System.out.println(t);
 
 }
 
-UNION LINKED LIST
+//UNION LINKED LIST
 
 import java.util.Scanner;
 import java.util.HashMap;
